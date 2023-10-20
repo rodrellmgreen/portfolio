@@ -1,0 +1,22 @@
+.main{
+  height: 120%;
+}
+mat-toolbar{
+  display: flex;
+  background-position: center;
+  height: 25%;
+  color: whitesmoke;
+  background-color: black;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+  width: 100%;
+
+
+
+}
+
+
+mat-tab,mat-tab-group, mat-tab-body{
+  height: 100%;
+}
